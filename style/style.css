@@ -97,6 +97,7 @@ footer {
 
 @media (max-width: 576px) {
   .site-link {
+    display: block;
     text-align: center;
     min-width: 600px;
   }
