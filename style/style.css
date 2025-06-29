@@ -94,3 +94,9 @@ footer {
 .img-fluid p-2 {
   min-height: 725px;
 }
+
+@media (max-width: 576px) {
+  .site-link {
+    margin: 0 20px;
+  }
+}
